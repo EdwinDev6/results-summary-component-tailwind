@@ -544,6 +544,16 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.bg-gray-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(243 244 246 / var(--tw-bg-opacity));
+}
+
+.py-8 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
 .font-haken {
   font-family: Hanken Grotesk, sans-serif;
 }
